@@ -1,5 +1,3 @@
-Sure, here is an updated version of the Git readme file that includes your goal:
-
 # NSS KDL Project
 
 This project analyzes the NSS KDL dataset and attempts to predict the likelihood of a student dropping out based on various features such as gender, age, and academic performance. The dataset contains information on over 10,000 students from various colleges in Kerala.
